@@ -1,2 +1,3 @@
 This is a paypal repositor
-this is paypal application for payments
+this is paypal application for payment
+applications must be tested
